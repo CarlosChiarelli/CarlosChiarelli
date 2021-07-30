@@ -9,7 +9,7 @@
 - 💬 Pergunte-me algo sobre TI ou valores
 - 📫 Pode me mandar um e-mail
 - 😄 Pronomes: ele/dele
-- ⚡ Fato engraçado: **se for pra jogar é pra ganhar** (sempre respeitando o adversário)
+- ⚡ Fato engraçado: jogador de bilhar, poker, fifa e COD
 
 <br>
 
@@ -28,12 +28,6 @@
 <img align="center" alt="Carlos-Flask" height="50" width="67" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg">
 <img align="center" alt="Carlos-Docker" height="50" width="67" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 <img align="center" alt="Carlos-Docker" height="50" width="67" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">
-
-
-  
-    
-  <img align="right" alt="Carlos-Chiarelli" height="160" width="128"  src="https://github.com/CarlosChiarelli/CarlosChiarelli/blob/main/WhatsApp-Video-2021-07-30-at-09.33.28.gif">
-</div>
   
 ##
 
