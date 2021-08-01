@@ -5,10 +5,9 @@
 - 💼 Hoje eu trabalho com back-end
 - 🌱 Estudando microsserviços e computação distribuída
 - 🤝🏻 Procuro colocaborar em projetos Python
-- 🤔 Busco interessados em sistemas de mensageria e Big Data
+- 🤔 Busco interessados em sistemas de mensageria, Big Data e Data Science
 - 💬 Pergunte-me algo sobre TI ou valores
 - 📫 Pode me mandar um e-mail
-- 😄 Pronomes: ele/dele
 - ⚡ Fato engraçado: jogador de bilhar, poker, fifa e COD
 
 <br>
