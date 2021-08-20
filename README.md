@@ -3,7 +3,7 @@
 <br>
 
 - 💼 Hoje eu trabalho com back-end
-- 🌱 Estudando microsserviços e computação distribuída
+- 🌱 Estudando microserviços e computação distribuída
 - 🤝🏻 Procuro colocaborar em projetos Python
 - 🤔 Busco interessados em sistemas de mensageria, Big Data e Data Science
 - 💬 Pergunte-me algo sobre TI ou valores
