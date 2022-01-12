@@ -8,7 +8,7 @@
 - 🤔 Busco interessados em sistemas de mensageria, Big Data e Data Science
 - 💬 Pergunte-me algo sobre TI ou valores
 - 📫 Pode me mandar um e-mail
-- ⚡ Fato engraçado: jogador de bilhar, poker, fifa e COD
+- ⚡ Fato engraçado: jogador de bilhar e poker e entusiasta de psicologia
 
 <br>
 
@@ -20,10 +20,8 @@
   
 <div style="display: inline_block"><br>
 <img align="center" alt="Carlos-Postgres" height="50" width="67" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-<img align="center" alt="Carlos-Mysql" height="50" width="67" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 <img align="center" alt="Carlos-Java" height="50" width="67" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
 <img align="center" alt="Carlos-Python" height="50" width="67" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="Carlos-Django" height="50" width="67" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg">
 <img align="center" alt="Carlos-Flask" height="50" width="67" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg">
 <img align="center" alt="Carlos-Docker" height="50" width="67" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 <img align="center" alt="Carlos-Docker" height="50" width="67" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">
