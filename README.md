@@ -1,14 +1,14 @@
-### Bem-vindo! Eu sou Carlos ✌🏼🤓
+### Welcome! I'm Carlos ✌🏼🤓
 
 <br>
 
-- 💼 Hoje eu trabalho com back-end
-- 🌱 Estudando microserviços e computação distribuída
-- 🤝🏻 Procuro colocaborar em projetos Python
-- 🤔 Busco interessados em sistemas de mensageria, Big Data e Data Science
-- 💬 Pergunte-me algo sobre TI ou valores
-- 📫 Pode me mandar um e-mail
-- ⚡ Fato engraçado: jogador de bilhar e poker e entusiasta de psicologia
+- 💼 Currently working in backend development
+- 🌱 Learning about microservices and distributed computing
+- 🤝🏻 Seeking to contribute to Python projects
+- 🤔 Interested in messaging systems, Big Data, and Data Science
+- 💬 Feel free to ask me anything about IT or life values
+- 📫 You can reach me via email
+- ⚡ Fun fact: I enjoy playing billiards and poker, and I'm a psychology enthusiast
 
 <br>
 
